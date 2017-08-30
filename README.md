@@ -1,3 +1,2 @@
 # SteppingStones
-This is my portfolio website project
-Used HTML5, CSS3, Bootstrap, JQuery, Javascript
+This is a sample responsive website.
